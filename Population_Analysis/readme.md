@@ -1,10 +1,8 @@
-To make the README.md visually appealing, you can include various images from your dashboard, like specific charts or filtered views. Here's an updated version that suggests where you might place these images:
-
 ---
 
 # Population Analysis Dashboard
 
-![Dashboard Overview](path/to/dashboard_overview.png)
+![Dashboard Overview](images/img1.PNG)
 
 ## Overview
 
@@ -12,13 +10,13 @@ This dashboard provides a comprehensive analysis of the population distribution 
 
 ## Key Features
 
-### Top 10 Countries by Population
-![Top 10 Countries](path/to/top_10_countries_chart.png)
+### Top 20 Countries by Population
+![Top 10 Countries](images/img2.PNG)
 
-The dashboard lists the top 10 countries with the highest populations. The bar chart visually represents each country's population, with China and India leading the chart.
+The dashboard lists the top 20 countries with the highest populations. The bar chart visually represents each country's population, with China and India leading the chart.
 
 ### Gender Distribution
-![Gender Distribution](path/to/gender_distribution_chart.png)
+![Gender Distribution](images/img4.PNG)
 
 The dashboard includes a visual representation of the gender distribution within the population:
 - **Total Population**: 38,947 million
@@ -29,7 +27,7 @@ The dashboard includes a visual representation of the gender distribution within
 ### Country-Specific Analysis
 For a more detailed view, the dashboard offers specific insights into the population distribution of individual countries, with a focus on China, India, and the United States.
 
-![Country Analysis](path/to/country_analysis_chart.png)
+![Country Analysis](images/img5.PNG)
 
 ## Visual Elements
 
@@ -39,7 +37,7 @@ For a more detailed view, the dashboard offers specific insights into the popula
 
 ## Data Insights
 
-![Data Insights](path/to/data_insights_chart.png)
+![Data Insights](images/img3.PNG)
 
 - **China** has the largest population among the top 10, followed by **India**.
 - The **United States** ranks third, with a significant gap compared to the top two.
@@ -63,9 +61,3 @@ This dashboard was created as part of an internship task at Skill Craft Technolo
 This dashboard provides a clear and concise view of global population trends, with a focus on gender distribution and country-specific data. It serves as a useful tool for demographic analysis and strategic planning.
 
 ---
-
-### Image Insertion Guide
-
-To insert images, replace `path/to/your_image.png` with the actual path to the image files. This could be a local path if you're sharing the README locally or a URL if the images are hosted online.
-
-Feel free to add more sections or images as needed to showcase different parts of your dashboard!
