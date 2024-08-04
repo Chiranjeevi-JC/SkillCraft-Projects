@@ -1,5 +1,3 @@
----
-
 # 🌍 Population Analysis Dashboard
 
 Welcome to the **Population Analysis Dashboard**, a powerful tool designed to provide an in-depth look into the population distribution of the world's most populous countries. This dashboard, created as part of an internship at Skill Craft Technologies, leverages data from 2018 to 2022 and offers insights into the demographic breakdowns, including gender distribution.
@@ -63,5 +61,3 @@ Access the full dashboard here: [Population Analysis Dashboard](https://app.powe
 ## 📝 Conclusion
 
 This Population Analysis Dashboard is a comprehensive tool for understanding global population trends and demographics. It provides valuable insights for demographic studies and strategic planning, making complex data accessible and understandable.
-
----
